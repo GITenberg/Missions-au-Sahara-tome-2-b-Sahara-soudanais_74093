@@ -1,0 +1,35 @@
+_repo: Missions-au-Sahara-tome-2-b-Sahara-soudanais_74093
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chudeau, René
+    alias: Chudeau, Rene
+    birthdate: 1864
+    deathdate: 1921
+    gutenberg_agent_id: '57347'
+    url: http://www.gutenberg.org/2009/agents/57347
+    wikipedia: https://fr.wikipedia.org/wiki/Ren%C3%A9_Chudeau
+description: ''
+gutenberg_issued: '2024-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74093'
+language: fr
+pgterms:marc904: https://patrimoine.sorbonne-universite.fr/fonds/item/2369-missions-au-sahara-2-sahara-soudanais
+pgterms:marc905: 20240625105516chudeau
+pgterms:marc906: '1909'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by Bibliothèque de Sorbonne Université/SorbonNum)
+publication_note: '  $aParis :$bArmand Colin, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sahara'
+- !lcsh 'Geology -- Sahara'
+- !lcc 'DT'
+- !lcc 'QE'
+- GITenberg
+title: 'Missions au Sahara, tome 2 : $b Sahara soudanais'
+url: http://www.gutenberg.org/ebooks/74093
