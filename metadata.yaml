@@ -1,5 +1,8 @@
 _repo: Missions-au-Sahara-tome-2-b-Sahara-soudanais_74093
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74093-h/images/cover.jpg
 creator:
   author:
     agent_name: Chudeau, René
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57347
     wikipedia: https://fr.wikipedia.org/wiki/Ren%C3%A9_Chudeau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74093#Missions-au-Sahara-tome-2-b-Sahara-soudanais
 gutenberg_issued: '2024-07-22'
 gutenberg_type: Text
 identifiers:
